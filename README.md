@@ -3,7 +3,7 @@ Command line tool applying patterned commands to files
 
 Written 1994 in Fitted Software Tools Modula-2
 ```
-IN "<command definition>" <filespec> ...'
+IN "<command definition>" <filespec> ...
 
 Symbols used in command definition:
  $F = full file specification
